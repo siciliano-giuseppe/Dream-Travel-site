@@ -4,7 +4,7 @@
 font-family: 'Times New Roman', Times, serif;
 }
 body{
-    background-color:rgb(206, 161, 161);
+    background-color:rgb(201, 215, 247);
 }
 img{
     display: flex;
@@ -33,14 +33,14 @@ gap: 45px;
   
 }
 .header{
-     background-color: rgb(75, 97, 224);
-     color: rgb(255, 255, 255);
+     background-color: rgb(40,75,70,0,9);
+     color: rgb(255, ss255, 255);
      text-align: center;
      padding: 30px;
 }
 .menu ul{
     display: flex;
-    background-color: rgb(28, 28, 173);
+    background-color: #c29b40;
     list-style:none;
     margin:0;
     padding: 0;
