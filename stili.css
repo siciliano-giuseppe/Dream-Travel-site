@@ -1,15 +1,19 @@
-font{
-    color: rgb(255, 255, 255);
+.font{
+    color: rgb(15, 15, 15);
 
 font-family: 'Times New Roman', Times, serif;
 }
 body{
-    background: color #f0f8ff;;
+    background-color:rgb(206, 161, 161);
+}
+img{
+    display: flex;
+    width: 100%;
 }
 .card{
     background-color: white;
- margin:25px auto;
-    padding: 10px;
+ margin:30px auto;
+    padding: 25px;
     width: 45%;
     border-radius: 20px;
     box-shadow: 5px 10px rgba(0,0,0,0.1);
@@ -29,14 +33,14 @@ gap: 45px;
   
 }
 .header{
-     background-color: #a3e4d7;
-     color: rgba(255, 250, 255, 0.98);
+     background-color: rgb(75, 97, 224);
+     color: rgb(255, 255, 255);
      text-align: center;
      padding: 30px;
 }
 .menu ul{
     display: flex;
-    background-color: #c29b40;
+    background-color: rgb(28, 28, 173);
     list-style:none;
     margin:0;
     padding: 0;
@@ -54,5 +58,3 @@ gap: 45px;
 .menu a:hover {
     background-color: rgb(0, 189, 236);
 }
-
-
